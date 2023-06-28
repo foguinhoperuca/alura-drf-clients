@@ -1,20 +1,20 @@
-Django
-python-dotenv
 termcolor
+pygments
 validate-docbr
+python-dotenv
 pytest
 pytest-cov
 psycopg2
 psycopg2-binary
-pylint-django
-djangorestframework
 markdown
-django-filter
 pyyaml
 uritemplate
-pygments
-django-guardian
 faker
+Django
+pylint-django
+djangorestframework
+django-filter
+django-guardian
 
 
 # asgiref==3.2.10                                                                                                                                           
